@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: dfb16f2b4d2dd1e4288909980d8f5156
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - matingParticles: {instanceID: 0}
+  - matingParticleInstance: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
